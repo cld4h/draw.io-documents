@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T09:06:40.948Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_jtviyap8j2C5mdHxGA0" version="15.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-06T01:57:56.129Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QVdJ1K2Wmbfh0WFgySr5" version="15.0.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="2517" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -1275,17 +1275,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BMz7LxQhE3CNXSYuPOcH-1" value="srsue::proc_bsr" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="-660" width="270" height="720" as="geometry" />
+        <mxCell id="BMz7LxQhE3CNXSYuPOcH-1" value="srsue::bsr_proc" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="2310" y="-643" width="270" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="BMz7LxQhE3CNXSYuPOcH-2" value="Print periodically the &#xa;LCID queue status" style="" vertex="1" parent="BMz7LxQhE3CNXSYuPOcH-1">
-          <mxGeometry x="60" y="160" width="150" height="40" as="geometry" />
+        <mxCell id="BMz7LxQhE3CNXSYuPOcH-2" value="Print periodically the &#xa;LCID queue status" style="" parent="BMz7LxQhE3CNXSYuPOcH-1" vertex="1">
+          <mxGeometry x="60" y="166" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BMz7LxQhE3CNXSYuPOcH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="BMz7LxQhE3CNXSYuPOcH-1" source="BMz7LxQhE3CNXSYuPOcH-3" target="BMz7LxQhE3CNXSYuPOcH-2">
+        <mxCell id="BMz7LxQhE3CNXSYuPOcH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="BMz7LxQhE3CNXSYuPOcH-1" source="BMz7LxQhE3CNXSYuPOcH-3" target="BMz7LxQhE3CNXSYuPOcH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BMz7LxQhE3CNXSYuPOcH-3" value="get_unique_timer&lt;br&gt;and&amp;nbsp;&lt;br&gt;reset" style="whiteSpace=wrap;html=1;" vertex="1" parent="BMz7LxQhE3CNXSYuPOcH-1">
-          <mxGeometry x="73.75" y="70" width="122.5" height="50" as="geometry" />
+        <mxCell id="BMz7LxQhE3CNXSYuPOcH-3" value="get_unique_timer&lt;br&gt;for timer_periodic,&lt;br&gt;timer_retx,&lt;br&gt;timer_queue_status_print&lt;br&gt;and&amp;nbsp;reset" style="whiteSpace=wrap;html=1;" parent="BMz7LxQhE3CNXSYuPOcH-1" vertex="1">
+          <mxGeometry x="61.88" y="53" width="146.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YgIG4NnrTaQgkeszp7UP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jK9o3yZ-w12xIZSxQb0q-198" target="BMz7LxQhE3CNXSYuPOcH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YgIG4NnrTaQgkeszp7UP-2" value="srsue::phr_proc" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="-380" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="YgIG4NnrTaQgkeszp7UP-5" value="get_unique_timer&lt;br&gt;for timer_periodic,&lt;br&gt;timer_prohibit&lt;br&gt;and&amp;nbsp;reset" style="whiteSpace=wrap;html=1;" vertex="1" parent="YgIG4NnrTaQgkeszp7UP-2">
+          <mxGeometry x="61.88" y="53" width="146.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YgIG4NnrTaQgkeszp7UP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jK9o3yZ-w12xIZSxQb0q-199" target="YgIG4NnrTaQgkeszp7UP-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
