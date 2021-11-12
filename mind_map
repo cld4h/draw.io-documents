@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T00:30:24.831Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PYq7Iu2baNpSspf9hIC4" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T08:56:31.024Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="bpK_I5BJ_Fm68lcZd3LJ" version="15.7.1" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="2448" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
         <mxCell id="kS786flFu61I-aHi-izY-2" value="&lt;span&gt;联盟学习&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="700" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kS786flFu61I-aHi-izY-4" value="数据隐私" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kS786flFu61I-aHi-izY-4" value="存储数据隐私" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="300" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kS786flFu61I-aHi-izY-5" value="位置隐私" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
