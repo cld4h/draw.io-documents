@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T11:30:11.819Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="v4JLY7Mn2-Uz_LFN64I_" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T12:43:02.056Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="9fCC5743P5Q8_BJgLza6" version="15.8.6" type="github">
   <diagram id="6a5uVu5fAoTY07bjoovT" name="Page-1">
-    <mxGraphModel dx="868" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,10 +16,10 @@
         <mxCell id="ZTfvmDPcORKKtLSDNlzU-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZTfvmDPcORKKtLSDNlzU-1">
           <mxGeometry x="16.5" y="205" width="253.5" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="ZTfvmDPcORKKtLSDNlzU-3" value="AAU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZTfvmDPcORKKtLSDNlzU-1">
+        <mxCell id="ZTfvmDPcORKKtLSDNlzU-3" value="RRU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZTfvmDPcORKKtLSDNlzU-1">
           <mxGeometry x="60" y="305" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZTfvmDPcORKKtLSDNlzU-6" value="AAU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZTfvmDPcORKKtLSDNlzU-1">
+        <mxCell id="ZTfvmDPcORKKtLSDNlzU-6" value="RRU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZTfvmDPcORKKtLSDNlzU-1">
           <mxGeometry x="160" y="305" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZTfvmDPcORKKtLSDNlzU-7" value="Cloud BBU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZTfvmDPcORKKtLSDNlzU-1">
