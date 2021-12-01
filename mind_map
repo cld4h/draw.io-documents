@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T00:52:31.873Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="j02d4nVCzSzrxmyqm_p9" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T11:45:50.604Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ejV-CGCgwP4UqCXBJJ6b" version="15.8.8" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="2448" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1742" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,7 +181,7 @@
           <mxGeometry x="530" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DrnZMteI4lUx4lguPG7K-13" value="联邦学习的核心内容：Addressing Privacy-Accuracy-Efficiency Trilemma &#xa;over various heterogenoeity" style="swimlane;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="970" y="560" width="480" height="320" as="geometry" />
+          <mxGeometry x="1100" y="560" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="DrnZMteI4lUx4lguPG7K-1" value="Privacy and&lt;br&gt;Security" style="rhombus;whiteSpace=wrap;html=1;" parent="DrnZMteI4lUx4lguPG7K-13" vertex="1">
           <mxGeometry x="180" y="61" width="120" height="80" as="geometry" />
@@ -228,16 +228,16 @@
         <mxCell id="DrnZMteI4lUx4lguPG7K-2" value="Accuracy" style="rhombus;whiteSpace=wrap;html=1;" parent="DrnZMteI4lUx4lguPG7K-13" vertex="1">
           <mxGeometry x="20" y="221" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XUgjBsc3opYVIq3jioei-2" value="联邦学习平台开源项目" style="swimlane;startSize=40;" vertex="1" parent="1">
+        <mxCell id="XUgjBsc3opYVIq3jioei-2" value="联邦学习平台开源项目" style="swimlane;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="410" y="560" width="440" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="XUgjBsc3opYVIq3jioei-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;https://github.com/FederatedAI/FATE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;https://fedml.ai&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/tf-encrypted/tf-encrypted&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://pytorch.org/tutorials/beginner/dist_overview.html&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/horovod/horovod&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/coMindOrg/federated-averaging-tutorials&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/OpenMined/PySyft&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/PaddlePaddle/PaddleFL&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://developer.nvidia.com/clara&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XUgjBsc3opYVIq3jioei-2">
+        <mxCell id="XUgjBsc3opYVIq3jioei-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;https://github.com/FederatedAI/FATE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;https://fedml.ai&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/tf-encrypted/tf-encrypted&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://pytorch.org/tutorials/beginner/dist_overview.html&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/horovod/horovod&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/coMindOrg/federated-averaging-tutorials&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/OpenMined/PySyft&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://github.com/PaddlePaddle/PaddleFL&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;https://developer.nvidia.com/clara&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="XUgjBsc3opYVIq3jioei-2" vertex="1">
           <mxGeometry x="30" y="61" width="380" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XUgjBsc3opYVIq3jioei-16" value="联邦学习应用展望" style="swimlane;startSize=40;" vertex="1" parent="1">
+        <mxCell id="XUgjBsc3opYVIq3jioei-16" value="联邦学习应用展望" style="swimlane;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="410" y="810" width="440" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="XUgjBsc3opYVIq3jioei-17" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;自动驾驶&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;5G车联网&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;智慧医疗(p2p FL+区块链)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XUgjBsc3opYVIq3jioei-16">
+        <mxCell id="XUgjBsc3opYVIq3jioei-17" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;自动驾驶&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;5G车联网&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;智慧医疗(p2p FL+区块链)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="XUgjBsc3opYVIq3jioei-16" vertex="1">
           <mxGeometry x="135" y="106" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
