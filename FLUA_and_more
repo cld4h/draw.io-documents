@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T00:35:48.111Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3-OICXVRvI6g2k27a4N7" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T01:19:43.181Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ABLNHS3Cl10-UgTUBcbI" version="16.5.6" type="github">
   <diagram id="BeV8prTd7ku5kUDcrNpf" name="Page-1">
-    <mxGraphModel dx="2183" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2454" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         </mxCell>
         <UserObject label="EN 50128（IEC 62279）认证" link="https://www.qa-systems.cn/multi/586.html" id="ElxrPs11W5e6i8t9W8-_-1">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="110" y="-280" width="250" height="30" as="geometry" />
+            <mxGeometry x="1460" y="-797" width="250" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Federated Self-Training for Semi-Supervised Audio&amp;nbsp;&lt;span&gt;Recognition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;终端设备上大量无标注语音数据的利用&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;通过公开数据集执行语音识别任务训练：&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;环境声音分类；语音指令识别；语言种类识别（Ambient Context；Speech Commands；VoxForge）&lt;/div&gt;" link="https://arxiv.org/abs/2107.06877" id="ElxrPs11W5e6i8t9W8-_-3">
@@ -77,10 +77,25 @@
         <mxCell id="ElxrPs11W5e6i8t9W8-_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ElxrPs11W5e6i8t9W8-_-5" value="语音识别（Auto Speech Recognition）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ElxrPs11W5e6i8t9W8-_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ElxrPs11W5e6i8t9W8-_-6" value="语义理解（Semantic Understanding）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -153,6 +168,18 @@
         <mxCell id="ElxrPs11W5e6i8t9W8-_-28" value="Federated Learning for Audio Semantic&#xa;Communication" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-100" width="340" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Federated Learning for Spoken Language Understanding" link="https://aclanthology.org/2020.coling-main.310.pdf" id="ElxrPs11W5e6i8t9W8-_-29">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
             <mxGeometry x="936" y="-90" width="305" height="40" as="geometry" />
@@ -170,12 +197,31 @@
         </UserObject>
         <UserObject label="SNIPS数据集" link="https://paperswithcode.com/dataset/snips" id="ElxrPs11W5e6i8t9W8-_-32">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-            <mxGeometry x="806" y="-60" width="130" height="40" as="geometry" />
+            <mxGeometry x="800" y="-35" width="130" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Intent detection" link="https://paperswithcode.com/task/slot-filling" id="ElxrPs11W5e6i8t9W8-_-33">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
             <mxGeometry x="1200" y="-60" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-42" target="ElxrPs11W5e6i8t9W8-_-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-42" target="ElxrPs11W5e6i8t9W8-_-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-42" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;FedE: Embedding Knowledge Graphs in Federated Setting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" link="https://dl.acm.org/doi/10.1145/3502223.3502233" id="ElxrPs11W5e6i8t9W8-_-44">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="1725" y="-50" width="320" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;FKGE：合格的知识图谱嵌入已经学会保护隐私啦！&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" link="https://blog.csdn.net/Kaiyuan_sjtu/article/details/119834227" id="ElxrPs11W5e6i8t9W8-_-46">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="1620" y="80" width="500" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
