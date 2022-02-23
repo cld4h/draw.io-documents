@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T01:19:43.181Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ABLNHS3Cl10-UgTUBcbI" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T15:36:24.755Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QAjb4I36Kjy1JyCH-G_i" version="16.6.1" type="github">
   <diagram id="BeV8prTd7ku5kUDcrNpf" name="Page-1">
-    <mxGraphModel dx="2454" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2423" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,173 +57,195 @@
           <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="EN 50128（IEC 62279）认证" link="https://www.qa-systems.cn/multi/586.html" id="ElxrPs11W5e6i8t9W8-_-1">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1460" y="-797" width="250" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Federated Self-Training for Semi-Supervised Audio&amp;nbsp;&lt;span&gt;Recognition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;终端设备上大量无标注语音数据的利用&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;通过公开数据集执行语音识别任务训练：&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;环境声音分类；语音指令识别；语言种类识别（Ambient Context；Speech Commands；VoxForge）&lt;/div&gt;" link="https://arxiv.org/abs/2107.06877" id="ElxrPs11W5e6i8t9W8-_-3">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1560" y="-340" width="360" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Apple: 语音识别工具的个性化推荐&lt;br&gt;on-device personalization&lt;br&gt;" link="https://arxiv.org/pdf/2102.08503.pdf" id="ElxrPs11W5e6i8t9W8-_-4">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1560" y="-190" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-6">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-22">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-3">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-4">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-5" target="ElxrPs11W5e6i8t9W8-_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-5" value="语音识别（Auto Speech Recognition）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-5" value="语音识别（Auto Speech Recognition）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-7">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-28">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-29">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-42">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-6" target="ElxrPs11W5e6i8t9W8-_-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-6" value="语义理解（Semantic Understanding）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-6" value="语义理解（Semantic Understanding）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-7" value="语音合成（Text To Speech）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-7" value="语音合成（Text To Speech）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-8" target="ElxrPs11W5e6i8t9W8-_-5">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ElxrPs11W5e6i8t9W8-_-8" target="ElxrPs11W5e6i8t9W8-_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="source" link="https://www.lagou.com/lgeduarticle/72367.html" id="ElxrPs11W5e6i8t9W8-_-14">
-          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-8" target="ElxrPs11W5e6i8t9W8-_-13">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ElxrPs11W5e6i8t9W8-_-8" target="ElxrPs11W5e6i8t9W8-_-13" edge="1">
             <mxGeometry x="0.1952" y="9" relative="1" as="geometry">
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-8" target="ElxrPs11W5e6i8t9W8-_-19">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-8" target="ElxrPs11W5e6i8t9W8-_-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-8" value="&lt;ol style=&quot;padding: 0px ; margin: 0px 0px 1.4em ; display: table ; color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;语音唤醒和&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;声纹识别&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;wake up &amp;amp;&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;voiceprint recognition&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-8" value="&lt;ol style=&quot;padding: 0px ; margin: 0px 0px 1.4em ; display: table ; color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;语音唤醒和&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;声纹识别&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;wake up &amp;amp;&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;voiceprint recognition&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="-480" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-12" value="&lt;p style=&quot;margin: 0px; padding: 0px; font-size: 17px; color: rgb(0, 0, 0); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(250, 250, 250);&quot;&gt;Speaker recognition以2012年为分水岭，由statistics-based machine learning，跨到了以deep learning为主线的算法。随后，bottleneck feature、d-vector、x-vector、j-vector等DNN-based的系统陆续出现，随后attention mechanism、Learning to rank等思想被用于改良训练过程。&lt;/p&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-12" value="&lt;p style=&quot;margin: 0px; padding: 0px; font-size: 17px; color: rgb(0, 0, 0); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(250, 250, 250);&quot;&gt;Speaker recognition以2012年为分水岭，由statistics-based machine learning，跨到了以deep learning为主线的算法。随后，bottleneck feature、d-vector、x-vector、j-vector等DNN-based的系统陆续出现，随后attention mechanism、Learning to rank等思想被用于改良训练过程。&lt;/p&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="-877" width="550" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgedu.lagou.com/153e22e455c24c27877eb7528d31f8d2.jpg;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgedu.lagou.com/153e22e455c24c27877eb7528d31f8d2.jpg;" parent="1" vertex="1">
           <mxGeometry x="721" y="-767" width="556.28" height="460" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;kaldi&lt;/font&gt;" link="https://github.com/kaldi-asr/kaldi" id="ElxrPs11W5e6i8t9W8-_-15">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1750" y="-640" width="60" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="deep speeker" link="https://github.com/philipperemy/deep-speaker" id="ElxrPs11W5e6i8t9W8-_-16">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="1750" y="-600" width="130" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Openslr" link="https://www.openslr.org/index.html" id="ElxrPs11W5e6i8t9W8-_-17">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="1750" y="-560" width="300" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Pyannote: Speaker diarization" link="https://github.com/pyannote/pyannote-audio" id="ElxrPs11W5e6i8t9W8-_-18">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="1750" y="-520" width="270" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-19" value="资源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-19" value="资源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1550" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-21" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-21" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1710" y="-634" width="20" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-22" target="ElxrPs11W5e6i8t9W8-_-23">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-22" target="ElxrPs11W5e6i8t9W8-_-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Google:&amp;nbsp;&lt;span&gt;Training Speech Recognition Models with Federated Learning: A Quality/Cost Framework&lt;/span&gt;&lt;br&gt;https://ieeexplore.ieee.org/document/9413397" link="https://arxiv.org/pdf/2010.15965.pdf" id="ElxrPs11W5e6i8t9W8-_-22">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="750" y="-220" width="570" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="an end-to-end, all-neural, on-device speech recognizer by Google" link="https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html" id="ElxrPs11W5e6i8t9W8-_-23">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="760" y="-307" width="550" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-28" value="Federated Learning for Audio Semantic&#xa;Communication" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-28" value="Federated Learning for Audio Semantic&#xa;Communication" style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1560" y="-100" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-31">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-33">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-30">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-32">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-29" target="ElxrPs11W5e6i8t9W8-_-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Federated Learning for Spoken Language Understanding" link="https://aclanthology.org/2020.coling-main.310.pdf" id="ElxrPs11W5e6i8t9W8-_-29">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="936" y="-90" width="305" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ATIS数据集" link="https://paperswithcode.com/dataset/atis" id="ElxrPs11W5e6i8t9W8-_-30">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="820" y="-120" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Slot filling" link="https://paperswithcode.com/task/slot-filling" id="ElxrPs11W5e6i8t9W8-_-31">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="1260" y="-110" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="SNIPS数据集" link="https://paperswithcode.com/dataset/snips" id="ElxrPs11W5e6i8t9W8-_-32">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="800" y="-35" width="130" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Intent detection" link="https://paperswithcode.com/task/slot-filling" id="ElxrPs11W5e6i8t9W8-_-33">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="1200" y="-60" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-42" target="ElxrPs11W5e6i8t9W8-_-44">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-42" target="ElxrPs11W5e6i8t9W8-_-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="ElxrPs11W5e6i8t9W8-_-42" target="ElxrPs11W5e6i8t9W8-_-46">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="ElxrPs11W5e6i8t9W8-_-42" target="ElxrPs11W5e6i8t9W8-_-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElxrPs11W5e6i8t9W8-_-42" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ElxrPs11W5e6i8t9W8-_-42" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1560" y="-35" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;FedE: Embedding Knowledge Graphs in Federated Setting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" link="https://dl.acm.org/doi/10.1145/3502223.3502233" id="ElxrPs11W5e6i8t9W8-_-44">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="1725" y="-50" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;FKGE：合格的知识图谱嵌入已经学会保护隐私啦！&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" link="https://blog.csdn.net/Kaiyuan_sjtu/article/details/119834227" id="ElxrPs11W5e6i8t9W8-_-46">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="1620" y="80" width="500" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Unsupervised Speech Recognition" link="https://arxiv.org/pdf/2105.11084v2.pdf" id="Axb_1LqsesGxH7iJNYGx-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2481" y="-610" width="230" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Federated Self-Training for Semi-Supervised Audio&amp;nbsp;&lt;span&gt;Recognition&lt;/span&gt;&lt;/div&gt;" link="https://arxiv.org/abs/2107.06877" id="Axb_1LqsesGxH7iJNYGx-2">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2880" y="-610" width="260" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Axb_1LqsesGxH7iJNYGx-3" value="introduced&amp;nbsp;Wav2vec-U&lt;br&gt;phoneme error rate on the TIMIT benchmark from 26.1 to 11.3&lt;br&gt;&lt;div&gt;On English Librispeech benchmark, word error rate of 5.9&amp;nbsp;&lt;span&gt;on test-other&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="-540" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Axb_1LqsesGxH7iJNYGx-4" value="non iid 问题的解决：FedAvg和FedProx选择参与的clients；大量未标注数据的参与训练&lt;br&gt;propose the utilization of self-supervised pre-trained models as model initialization" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="-540" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Axb_1LqsesGxH7iJNYGx-5" value="研究了半监督联邦学习技术应用于音频识别任务时的实际问题，指明缺乏标记数据对于终端设备模型学习是一个主要挑战&lt;br&gt;&lt;br&gt;基于自训练，设计了一个简单但有效地方法，命名为FedSTAR，用于开发联邦学习环境下的大规模未标注数据&lt;br&gt;&lt;br&gt;&lt;div&gt;引入了用于生成伪标签的自适应置信度阈值，这有效地减少了不准确预测注释的数量。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;通过广泛的评估证明，此技术技术能够在各种联邦学习环境下有效地学习可概括的音频模型，并在不同的公共数据集上有效地学习标签可用性，即语音命令 [40]、环境上下文 [32] 和 VoxForge [28]。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;利用在 FSD-50K 语料库 [6] 上预训练的自监督模型来显着提高联邦学习环境中的训练收敛性。&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;提供了一种有效的方法来利用存储在客户设备上的未标记音频数据来提高低数据状态下的性能。&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;与完全监督的联邦模型相比，FedSTAR 具有低至 3% 的标记数据，平均可以将跨数据集的识别率提高 13.28%。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="-400" width="850" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Axb_1LqsesGxH7iJNYGx-6" value="SSL:&amp;nbsp;&lt;span&gt;solve the problem of learning with partially labeled data where the ratio&lt;/span&gt;&lt;div&gt;of unlabeled training examples is usually much larger than that of the labeled ones.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="-70" width="550" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
