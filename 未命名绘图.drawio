@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T11:54:46.454Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" version="20.8.23" etag="-TiV50uSTBziKSnBB0Ed" type="github"><diagram name="第 1 页" id="XSHvRoDciQM8kqC-tFZb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-03T03:02:54.354Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="fRf5uJAR1YTsCi3Mghgm" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="XSHvRoDciQM8kqC-tFZb">
+    <mxGraphModel dx="1368" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="87qqNE2EGwTgP2dgOk9c-1" target="87qqNE2EGwTgP2dgOk9c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-6" value="T.MelSpectrogram" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="87qqNE2EGwTgP2dgOk9c-5">
+          <mxGeometry x="-0.2286" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="87qqNE2EGwTgP2dgOk9c-1" target="87qqNE2EGwTgP2dgOk9c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-8" value="T.Spectrogram(&lt;br&gt;power=None)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="87qqNE2EGwTgP2dgOk9c-7">
+          <mxGeometry x="-0.1896" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="87qqNE2EGwTgP2dgOk9c-1" target="87qqNE2EGwTgP2dgOk9c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-10" value="T.Spectrogram(&lt;br&gt;power=2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="87qqNE2EGwTgP2dgOk9c-9">
+          <mxGeometry x="-0.1702" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;波形图&lt;br&gt;waveform&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;信号频谱图&lt;br&gt;（复数域）&lt;br&gt;Raw Spectrogram&lt;br&gt;(Complex-valued)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="87qqNE2EGwTgP2dgOk9c-3" target="87qqNE2EGwTgP2dgOk9c-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-20" value="T.InverseMelscale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="87qqNE2EGwTgP2dgOk9c-19">
+          <mxGeometry x="0.32" y="-3" relative="1" as="geometry">
+            <mxPoint x="28" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;梅尔频谱图&lt;br&gt;Mel-scale spectrogram&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;dashed=1;strokeWidth=2;" edge="1" parent="1" source="87qqNE2EGwTgP2dgOk9c-4" target="87qqNE2EGwTgP2dgOk9c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-18" value="T.GriffinLim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="87qqNE2EGwTgP2dgOk9c-16">
+          <mxGeometry x="-0.4383" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="87qqNE2EGwTgP2dgOk9c-4" target="87qqNE2EGwTgP2dgOk9c-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="498" />
+              <mxPoint x="480" y="498" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-22" value="T.MelScale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="87qqNE2EGwTgP2dgOk9c-21">
+          <mxGeometry x="-0.1867" y="-1" relative="1" as="geometry">
+            <mxPoint x="17" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;能量频谱图&lt;br&gt;（实数域）&lt;br&gt;Power&lt;br&gt;Spectrogram&lt;br&gt;(real-valued)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;fontSize=18;dashed=1;dashPattern=1 1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="1040" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-26" value="&lt;b&gt;&lt;i&gt;时域&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-27" value="&lt;b&gt;&lt;i&gt;频域&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="590" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;fontSize=18;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="190" as="sourcePoint" />
+            <mxPoint x="980" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87qqNE2EGwTgP2dgOk9c-29" value="虚线箭头表示有损近似变换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="87qqNE2EGwTgP2dgOk9c-28">
+          <mxGeometry x="0.32" y="-3" relative="1" as="geometry">
+            <mxPoint x="-29" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
