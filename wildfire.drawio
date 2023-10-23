@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T18:40:19.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pR4aQbqG6BE3SJ5tauwR" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T18:57:26.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="iWhdjI5rx0wdR6CTyRrN" version="22.0.6" type="github">
   <diagram name="第 1 页" id="l8xfBAseH4ksvrrm0t2u">
     <mxGraphModel dx="1877" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,6 +126,29 @@
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-46" value="Wildfires can force people to evacuate their homes, leading to temporary or even permanent displacement. This can result in homelessness and the need for emergency shelters and housing assistance." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="1340" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-47" value="Synonym" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="750" width="140" height="180" as="geometry">
+            <mxRectangle x="-413" y="750" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-48" value="Wildfire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-49" value="Forest Fire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-50" value="Bushfire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-51" value="Wildland Fire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-52" value="Rural Fire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-53" value="carbon monoxide, formaldehyde, acrolein, polyaromatic hydrocarbons, and benzene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="560" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
