@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T19:44:36.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_fhD8RB6GjTpDPWA6auJ" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T19:45:00.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oKRDfNBD-2JawwnbMTAu" version="22.0.6" type="github">
   <diagram name="第 1 页" id="l8xfBAseH4ksvrrm0t2u">
     <mxGraphModel dx="2327" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,12 @@
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-37" value="Cultural Loss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-41" target="niaGHHPIjS1ahwkak-Eg-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-41" target="niaGHHPIjS1ahwkak-Eg-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-41" value="Strained services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="640" width="120" height="60" as="geometry" />
