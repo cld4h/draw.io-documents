@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T19:24:21.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IpLvwj6hZXYx0gXKabte" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T19:35:09.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hTjOGgpod_mSaZb0rgyd" version="22.0.6" type="github">
   <diagram name="第 1 页" id="l8xfBAseH4ksvrrm0t2u">
-    <mxGraphModel dx="1827" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,14 @@
         <mxCell id="niaGHHPIjS1ahwkak-Eg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-11" target="niaGHHPIjS1ahwkak-Eg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-11" target="niaGHHPIjS1ahwkak-Eg-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-65" value="is caused by" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="niaGHHPIjS1ahwkak-Eg-64">
+          <mxGeometry x="-0.1019" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-11" value="Smoke related issues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-18" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -74,7 +82,7 @@
           <mxGeometry x="142" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-16" value="Smoke and ash from wildfires can cause irritation and redness in the eyes, making it uncomfortable for people, especially those with pre-existing eye conditions." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="142" y="840" width="196" height="80" as="geometry" />
+          <mxGeometry x="142" y="850" width="196" height="80" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-18" value="Bronchitis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="910" width="60" height="60" as="geometry" />
@@ -101,57 +109,65 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-34" value="Social Impact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1210" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-35" value="Displacement&lt;br&gt;and Homelessness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1230" width="100" height="60" as="geometry" />
+          <mxGeometry x="980" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-36" value="Community Disruption" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1230" width="100" height="60" as="geometry" />
+          <mxGeometry x="1220" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-37" value="Cultural Loss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-41" value="Strained services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1690" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-43" value="Social Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1360" width="70" height="60" as="geometry" />
+          <mxGeometry x="1660" y="770" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-44" value="Emergency&lt;br&gt;Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1360" width="70" height="60" as="geometry" />
+          <mxGeometry x="1770" y="770" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-45" value="Wildfires can disrupt the social fabric of communities. Schools, businesses, and public services may be temporarily or permanently closed, affecting the daily lives of residents." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1340" width="200" height="30" as="geometry" />
+          <mxGeometry x="1210" y="750" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-46" value="Wildfires can force people to evacuate their homes, leading to temporary or even permanent displacement. This can result in homelessness and the need for emergency shelters and housing assistance." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1340" width="170" height="60" as="geometry" />
+          <mxGeometry x="980" y="750" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="niaGHHPIjS1ahwkak-Eg-47" value="Synonym" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="750" width="140" height="180" as="geometry">
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-47" value="Wildfire&lt;br&gt;Synonym" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="130" width="143" height="180" as="geometry">
             <mxRectangle x="-413" y="750" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-48" value="Wildfire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-49" value="Forest Fire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-50" value="Bushfire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+          <mxGeometry y="90" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-51" value="Wildland Fire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
+          <mxGeometry y="120" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-52" value="Rural Fire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-47">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
+          <mxGeometry y="150" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-53" target="niaGHHPIjS1ahwkak-Eg-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-69" value="Posed risk on" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="niaGHHPIjS1ahwkak-Eg-68">
+          <mxGeometry x="-0.1987" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Toxic components from the smoke:&lt;/font&gt;&lt;br&gt;carbon monoxide, formaldehyde, acrolein, polyaromatic hydrocarbons, and benzene" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="510" width="162" height="120" as="geometry" />
+          <mxGeometry x="-180" y="470" width="162" height="120" as="geometry" />
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-55" value="At-risk Lifestage / Population" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="380" width="190" height="270" as="geometry">
+          <mxGeometry x="-470" y="380" width="190" height="270" as="geometry">
             <mxRectangle x="-440" y="380" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -175,6 +191,12 @@
         </mxCell>
         <mxCell id="niaGHHPIjS1ahwkak-Eg-62" value="Outdoor workers" style="text;whiteSpace=wrap;verticalAlign=middle;html=1;spacingLeft=4;" vertex="1" parent="niaGHHPIjS1ahwkak-Eg-55">
           <mxGeometry y="230" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-52" target="niaGHHPIjS1ahwkak-Eg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-52" target="niaGHHPIjS1ahwkak-Eg-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
