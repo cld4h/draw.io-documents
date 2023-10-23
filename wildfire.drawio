@@ -1,9 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T01:43:40.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.6" etag="EEYhDi9sMpfEXIH8ZSAe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T18:18:21.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JpDUmZlaBM8kKqcRJa9S" version="22.0.6" type="github">
   <diagram name="第 1 页" id="l8xfBAseH4ksvrrm0t2u">
-    <mxGraphModel>
+    <mxGraphModel dx="1877" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-1" target="niaGHHPIjS1ahwkak-Eg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-1" target="niaGHHPIjS1ahwkak-Eg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-1" target="niaGHHPIjS1ahwkak-Eg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-1" value="Human Health &lt;br&gt;impact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-2" target="niaGHHPIjS1ahwkak-Eg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-2" target="niaGHHPIjS1ahwkak-Eg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-2" value="Raspiratory Issues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-3" value="Asthma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="910" width="52" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-4" target="niaGHHPIjS1ahwkak-Eg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-4" target="niaGHHPIjS1ahwkak-Eg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-4" target="niaGHHPIjS1ahwkak-Eg-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-4" value="Mental Health" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-5" target="niaGHHPIjS1ahwkak-Eg-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-5" target="niaGHHPIjS1ahwkak-Eg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-5" value="Heat related issues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-6" value="Trama" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="780" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-7" value="Anxiety" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="780" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-9" value="Cardiovascular&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="780" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-11" target="niaGHHPIjS1ahwkak-Eg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-11" target="niaGHHPIjS1ahwkak-Eg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="niaGHHPIjS1ahwkak-Eg-11" target="niaGHHPIjS1ahwkak-Eg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-11" value="Smoke related issues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-15" value="Eye irritation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-16" value="Smoke and ash from wildfires can cause irritation and redness in the eyes, making it uncomfortable for people, especially those with pre-existing eye conditions." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="142" y="840" width="196" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-18" value="Bronchitis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="910" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-24" value="PTSD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="780" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-29" value="Heat Exhaustion and Heat Stroke" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="780" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niaGHHPIjS1ahwkak-Eg-31" value="Dehydration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="780" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
