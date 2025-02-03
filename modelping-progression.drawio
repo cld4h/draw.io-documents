@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="GbdJL2YuCFSVD6aubP16">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-3" value="Poisson" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#0000FF;strokeWidth=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-4" value="Poisson" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#FF0000;strokeWidth=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-5" value="Poisson" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#0000FF;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-6" value="Poisson" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#FF0000;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-7" value="Generalized Poisson" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#0000FF;strokeWidth=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-8" value="Generalized Poisson" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#FF0000;strokeWidth=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-9" value="Generalized Poisson" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#0000FF;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-10" value="Generalized Poisson" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#FF0000;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Fixed-effect model (GLM)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=5;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Mixed-effect (Hierarchical) model (GLMM)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-15" value="&lt;font style=&quot;font-size: 18px; color: rgb(255, 0, 0);&quot;&gt;Baysian&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-16" value="&lt;font style=&quot;font-size: 18px; color: rgb(0, 0, 255);&quot;&gt;Frequentist (MLE)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-17" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.285107421875;arrowSize=0.360992431640625;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_MVlF8QEX0YebD5uJbfH-18" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.285107421875;arrowSize=0.360992431640625;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
